@@ -7,6 +7,15 @@
 
 -----
 
+## 使用方法
+
+```
+npm install
+npm start
+```
+
+----
+
 ## 当前技术栈
 
 * 前端：React + Redux + React Router + ArcGIS API for JavaScript 4.18
